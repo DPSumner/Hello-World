@@ -1,9 +1,4 @@
 # Hello-World
 Testing repository
 
-
-##testing
-
-*one
-* one
-* two
+I am currently . testing this out in markdown which  learned 2 days ago.
